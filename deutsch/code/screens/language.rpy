@@ -2,9 +2,9 @@
 
     # game/code/screens/language.rpy:66
     old "Switch Language"
-    new "Switch Language"
+    new "Sprache wechseln"
 
     # game/code/screens/language.rpy:77
     old "Choose Language"
-    new "Choose Language"
+    new "Sprache wählen"
 

@@ -2,5 +2,5 @@
 
     # game/code/screens/screens.rpy:342
     old "Skipping"
-    new "Skipping"
+    new "Wird übersprungen"
 
