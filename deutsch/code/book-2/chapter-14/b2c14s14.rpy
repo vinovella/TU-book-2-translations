@@ -632,7 +632,7 @@ translate deutsch b2c14s09_accept_invitation_1e3a462c:
 translate deutsch b2c14s09_sinner_pee_03e54914:
 
     # "You grab a fistful of her hair and yank her head back, exposing the pale column of her throat."
-    "Du grab a fistful von sie Haar und yank sie Kopf Rückseite, exposing the pale column von sie throat."
+    "Du greifst ihr eine Handvoll Haar und reißt ihren Kopf nach hinten, sodass der blasse Säulen ihres Halses freiliegt."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:444
 translate deutsch b2c14s09_sinner_pee_6a6e5a68:
@@ -656,13 +656,13 @@ translate deutsch b2c14s09_sinner_pee_9296eb06:
 translate deutsch b2c14s09_sinner_pee_aa3a1067:
 
     # "You guide her head forward, and she opens for you eagerly, lips stretching around your shaft as you push deep."
-    "Du guide sie Kopf forward, und sie öffnet für du eagerly, lips stretching um dein shaft as du drücken deep."
+    "Du führst ihren Kopf nach vorne, und sie öffnet sich begierig für dich, ihre Lippen dehnen sich um deinen Schaft, während du tief vordringst."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:458
 translate deutsch b2c14s09_sinner_pee_8966f48c:
 
     # "Her throat convulses around you, a wet gagging sound filling the fabric-muffled space, but she doesn't pull back. She powers through, hands gripping your thighs."
-    "Sie throat convulses um du, a wet gagging sound filling the fabric-muffled space, aber sie nicht ziehen Rückseite. Sie powers durch, hands gripping dein thighs."
+    "Ihr Rachen zuckt um dich herum, ein nasser Würger füllt den stoffgedämpften Raum, aber sie zieht sich nicht zurück. Sie kämpft sich durch, Hände krallen sich in deine Oberschenkel."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:459
 translate deutsch b2c14s09_sinner_pee_72015cde:
@@ -884,7 +884,7 @@ translate deutsch b2c14s09_saint_pee_8e20e01d:
 translate deutsch b2c14s09_saint_pee_19942ed3:
 
     # "You turn slightly and let the stream arc into the ceramic bowl. On your own terms."
-    "Du drehen slightly und let the stream arc into the ceramic bowl. Auf dein own terms."
+    "Du drehst dich leicht und lässt den Strahl in die Keramikschale bogen. Nach deinen Regeln."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:561
 translate deutsch b2c14s09_saint_pee_eeaa8caa:
@@ -1688,7 +1688,7 @@ translate deutsch b2c14s09_tincture_prep_f8e6cf0e:
 translate deutsch b2c14s09_tincture_prep_e3796de5:
 
     # "You shove back with strength you didn't know you had, creating space, assuming a stance that feels ancient and correct."
-    "Du shove Rückseite mit strength du nicht wissen du hatte, creating space, assuming a stance that fühlt alt und correct."
+    "Du stößt dich zurück mit einer Kraft, von der du nicht wusstest, dass du sie hast, schaffst Abstand und nimmst eine Haltung ein, die sich uralt und richtig anfühlt."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:932
 translate deutsch b2c14s09_tincture_prep_9877fe4b:
@@ -1706,7 +1706,7 @@ translate deutsch b2c14s09_tincture_prep_c103991d:
 translate deutsch b2c14s09_tincture_prep_40d943a9:
 
     # "Steel meets horn. Hoof meets claw. The glade rings with the crash and clang of battle."
-    "Steel trifft horn. Hoof trifft claw. The glade rings mit the crash und clang von battle."
+    "Stahl trifft Horn. Huf trifft Klaue. Die Lichtung hallt wider vom Krachen und Klirren der Schlacht."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:948
 translate deutsch b2c14s09_tincture_prep_6abd3e36:
@@ -1730,19 +1730,19 @@ translate deutsch b2c14s09_tincture_prep_0c103ff9:
 translate deutsch b2c14s09_tincture_prep_53c655fc:
 
     # "You roll to your feet, ignoring the screaming protest of your ribs, and press your advantage."
-    "Du roll zu dein feet, ignoring the screaming protest von dein ribs, und press dein advantage."
+    "Du rollst auf die Füße, ignorierst den schreienden Protest deiner Rippen und drückst deinen Vorteil aus."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:966
 translate deutsch b2c14s09_tincture_prep_cac23308:
 
     # "Slash. The minotaur blocks with its forearm, grunting as your blade bites deep."
-    "Slash. The minotaur blocks mit sein forearm, grunting as dein blade bites deep."
+    "Schnitt. Der Minotaurus blockiert mit seinem Unterarm, stöhnt, als deine Klinge tief eindringt."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:967
 translate deutsch b2c14s09_tincture_prep_8ed8eeb6:
 
     # "Block. The axe crashes against your shield hard enough to numb your arm to the elbow."
-    "Block. The axe crashes against dein shield hart enough zu numb dein Arm zu the elbow."
+    "Block. Die Axt kracht gegen deinen Schild, hart genug, um deinen Arm bis zum Ellenbogen zu betäuben."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:968
 translate deutsch b2c14s09_tincture_prep_6ba0d663:
@@ -1754,7 +1754,7 @@ translate deutsch b2c14s09_tincture_prep_6ba0d663:
 translate deutsch b2c14s09_tincture_prep_028deca4:
 
     # "You hit the ground, bounce, roll, and slam into the base of a massive tree trunk."
-    "Du hit the ground, bounce, roll, und slam into the base von a massive Baum trunk."
+    "Du schlägst auf dem Boden auf, springst ab, rollst und prallst gegen den Stamm eines massiven Baumes."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:980
 translate deutsch b2c14s09_tincture_prep_22cac2de:
@@ -1766,7 +1766,7 @@ translate deutsch b2c14s09_tincture_prep_22cac2de:
 translate deutsch b2c14s09_tincture_prep_687fcd0a:
 
     # "When you drag yourself upright, the minotaur is panting too. Both of you bloody. Both of you spent. Both of you still standing."
-    "Wenn du drag dich selbst upright, the minotaur ist panting auch. Both von du bloody. Both von du spent. Both von du noch stehend."
+    "Als du dich aufrappelst, keucht der Minotaurus ebenfalls. Ihr beide blutig. Ihr beide erschöpft. Ihr beide noch stehend."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:986
 translate deutsch b2c14s09_tincture_prep_117bb774:
@@ -1784,7 +1784,7 @@ translate deutsch b2c14s09_tincture_prep_9ec7a95b:
 translate deutsch b2c14s09_tincture_prep_a4ecbd73:
 
     # mct "Delphia said this is my domain. My creation."
-    mct "Delphia sagte this ist mein domain. Mein creation."
+    mct "Delphia sagte, das ist mein Reich. Meine Schöpfung."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:993
 translate deutsch b2c14s09_tincture_prep_877c45a6:
@@ -1808,19 +1808,19 @@ translate deutsch b2c14s09_sinner_fight_9c318752:
 translate deutsch b2c14s09_sinner_fight_7acbe5e5:
 
     # mct "So why am I fighting like a medieval foot soldier?"
-    mct "Also why bin Ich fighting mögen a medieval Fuß soldier?"
+    mct "Also warum kämpfe ich wie ein mittelalterlicher Fußsoldat?"
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1009
 translate deutsch b2c14s09_sinner_fight_3b76d999:
 
     # "You let the sword clatter to the ground. The shield follows."
-    "Du let the sword clatter zu the ground. The shield follows."
+    "Du lässt das Schwert klirrend auf den Boden fallen. Der Schild folgt."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1010
 translate deutsch b2c14s09_sinner_fight_7d3b6b10:
 
     # "The minotaur tilts its massive head, confused. Its grip tightens on the axe, but it doesn't attack."
-    "The minotaur tilts sein massive Kopf, confused. Sein grip tightens auf the axe, aber es nicht attack."
+    "Der Minotaurus neigt seinen massiven Kopf, verwirrt. Sein Griff um die Axt spannt sich an, aber er greift nicht an."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1013
 translate deutsch b2c14s09_sinner_fight_7f757b42:
@@ -1838,31 +1838,31 @@ translate deutsch b2c14s09_sinner_fight_0ade7368:
 translate deutsch b2c14s09_sinner_fight_7053185c:
 
     # mc "They're still just animals. Still operating on instinct. Muscle and rage and nothing else."
-    mc "They're noch nur animals. Noch operating auf instinct. Muscle und rage und nichts else."
+    mc "Sie sind immer noch nur Tiere. Noch immer nach Instinkt handelnd. Muskel und Wut und nichts sonst."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1018
 translate deutsch b2c14s09_sinner_fight_ca5d239b:
 
     # "You picture something better. Something final. Something that represents everything a beast can never be."
-    "Du picture etwas better. Etwas final. Etwas that represents alles a beast können nie sein."
+    "Du stellst dir etwas Besseres vor. Etwas Endgültiges. Etwas, das alles repräsentiert, was eine Bestie niemals sein kann."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1022
 translate deutsch b2c14s09_sinner_fight_d4b0eb94:
 
     # "The weight settles into your hands. Cold polymer and steel. The familiar brutality of an M4, standard issue."
-    "The weight settles into dein hands. Kalt polymer und steel. The familiar brutality von an M4, standard issue."
+    "Das Gewicht legt sich in deine Hände. Kaltes Polymer und Stahl. Die vertraute Brutalität einer M4, Standardausführung."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1027
 translate deutsch b2c14s09_sinner_fight_adf1aa32:
 
     # mc "Welcome to the modern era, asshole."
-    mc "Welcome zu the modern era, asshole."
+    mc "Willkommen in der modernen Zeit, Arschloch."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1030
 translate deutsch b2c14s09_sinner_fight_cde4cf6f:
 
     # "The minotaur snarls at the threat and charges."
-    "The minotaur snarls an the threat und charges."
+    "Der Minotaurus knurrt bei der Drohung und stürmt vor."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1032
 translate deutsch b2c14s09_sinner_fight_9c8c9724:
@@ -1874,19 +1874,19 @@ translate deutsch b2c14s09_sinner_fight_9c8c9724:
 translate deutsch b2c14s09_sinner_fight_3fb90e2f:
 
     # "The beast staggers. Black blood sprays. But it keeps coming, momentum carrying it forward even as its body fails it."
-    "The beast staggers. Black blood sprays. Aber es keeps kommend, momentum carrying es forward sogar as sein Körper fails es."
+    "Die Bestie taumelt. Schwarzes Blut spritzt. Aber es kommt weiter, sein Schwung trägt es vorwärts, selbst wenn sein Körper versagt."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1039
 translate deutsch b2c14s09_sinner_fight_d9309e4f:
 
     # "You advance, still firing. Each impact drives the creature back a step."
-    "Du advance, noch firing. Each impact drives the creature Rückseite a step."
+    "Du rückst vor, feuerst weiter. Jeder Treffer treibt die Kreatur einen Schritt zurück."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1041
 translate deutsch b2c14s09_sinner_fight_712ac3bb:
 
     # mc "You're nothing. You're a shadow. A fragment of something I don't need anymore."
-    mc "You're nichts. You're a shadow. A fragment von etwas Ich nicht brauchen anymore."
+    mc "Du bist nichts. Du bist ein Schatten. Ein Fragment von etwas, das ich nicht mehr brauche."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1045
 translate deutsch b2c14s09_sinner_fight_fdd51ae4:
@@ -1910,7 +1910,7 @@ translate deutsch b2c14s09_sinner_fight_0bb1b91d:
 translate deutsch b2c14s09_sinner_fight_c4fda48c:
 
     # "It tries to rise. Can't. Too many holes in things that need to not have holes."
-    "Es versucht zu rise. Kann nicht. Auch many holes in Dinge that brauchen zu nicht haben holes."
+    "Es versucht aufzustehen. Schafft es nicht. Zu viele Löcher in Dingen, die keine Löcher haben dürfen."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1054
 translate deutsch b2c14s09_sinner_fight_ef62fe9a:
@@ -1922,7 +1922,7 @@ translate deutsch b2c14s09_sinner_fight_ef62fe9a:
 translate deutsch b2c14s09_sinner_fight_152b54c2:
 
     # "One last round. Right between those horns."
-    "One last round. Richtig zwischen those horns."
+    "Eine letzte Runde. Genau zwischen diesen Hörnern."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1059
 translate deutsch b2c14s09_sinner_fight_a910a8eb:
@@ -1934,7 +1934,7 @@ translate deutsch b2c14s09_sinner_fight_a910a8eb:
 translate deutsch b2c14s09_sinner_fight_b6e0847d:
 
     # "The rifle dissolves too, no longer needed. You flex your fingers, feeling lighter. Clearer."
-    "The rifle dissolves auch, nein longer brauchte. Du flex dein fingers, fühlend lighter. Clearer."
+    "Das Gewehr löst sich ebenfalls auf, nicht länger benötigt. Du beugst deine Finger, fühlst dich leichter. Klarer."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1065
 translate deutsch b2c14s09_sinner_fight_965f3d0e:
@@ -1952,7 +1952,7 @@ translate deutsch b2c14s09_sinner_fight_1c24ab31:
 translate deutsch b2c14s09_saint_fight_a8ecebfd:
 
     # "The minotaur watches you, still breathing hard. Still bleeding. But it hasn't attacked."
-    "The minotaur schaut du, noch breathing hart. Noch bleeding. Aber es hat nicht attacked."
+    "Der Minotaurus beobachtet dich, atmet immer noch schwer. Blutet immer noch. Aber er hat nicht angegriffen."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1076
 translate deutsch b2c14s09_saint_fight_06ff9448:
@@ -1970,7 +1970,7 @@ translate deutsch b2c14s09_saint_fight_9181d575:
 translate deutsch b2c14s09_saint_fight_1f5fc4a7:
 
     # "It doesn't. Its nostrils flare. Its muscles coil. But it waits."
-    "Es nicht. Sein nostrils flare. Sein muscles coil. Aber es wartet."
+    "Tut es nicht. Seine Nasenlöcher weiten sich. Seine Muskeln spannen sich an. Aber er wartet."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1084
 translate deutsch b2c14s09_saint_fight_9e7c3308:
@@ -1982,7 +1982,7 @@ translate deutsch b2c14s09_saint_fight_9e7c3308:
 translate deutsch b2c14s09_saint_fight_60d85022:
 
     # "You let the sword and shield dissolve back into nothing."
-    "Du let the sword und shield dissolve Rückseite into nichts."
+    "Du lässt Schwert und Schild sich in nichts auflösen."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1088
 translate deutsch b2c14s09_saint_fight_e7b7c163:
@@ -2000,13 +2000,13 @@ translate deutsch b2c14s09_saint_fight_4906a9f9:
 translate deutsch b2c14s09_saint_fight_75e090f0:
 
     # "You walk toward the beast, hands raised, palms out. Non-threatening."
-    "Du laufen toward the beast, hands raised, palms out. Non-threatening."
+    "Du gehst auf die Bestie zu, Hände erhoben, Handflächen nach außen. Nicht bedrohlich."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1093
 translate deutsch b2c14s09_saint_fight_ef221f41:
 
     # "Which is hilarious, given that you're a half-goat nightmare approaching a murder cow with nothing but good intentions."
-    "Which ist hilarious, gegeben that you're a half-goat nightmare approaching a murder cow mit nichts aber gut intentions."
+    "Was ja lächerlich ist, wenn man bedenkt, dass du ein halb Ziegen-Albtraum bist, der sich einer Mordkuh mit nichts als guten Absichten nähert."
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1095
 translate deutsch b2c14s09_saint_fight_2fa09a3b:
@@ -2036,7 +2036,7 @@ translate deutsch b2c14s09_saint_fight_2869d96e:
 translate deutsch b2c14s09_saint_fight_8adeefae:
 
     # "Those too-human eyes narrow, then soften. Confusion. Recognition. {i}Pain{/i}"
-    "Those too-human Augen schmal, dann soften. Confusion. Recognition.{i}Pain{/i}"
+    "Diese zu menschlichen Augen verengen sich, dann werden sie weicher. Verwirrung. Wiedererkennung. {i}Schmerz{/i}"
 
 # game/code/book-2/chapter-14/b2c14s14.rpy:1109
 translate deutsch b2c14s09_saint_fight_6dea1719:
